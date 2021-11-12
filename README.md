@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paolo Kos
 - 👀 I’m interested in front end developing
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me: kos.paolo@gmail.com
 
 <!---
