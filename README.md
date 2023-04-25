@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Angular**
 
-- 💬 Ask me about: **Front-End Developing**
+- 💬 Ask me about: **Web Developing**
 
 - 📫 How to reach me: **kos.paolo@gmail.com**
 
