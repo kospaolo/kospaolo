@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk2MDUxOGQyZmIxYmU4MzM1YTExYjVmMzNjMGJmNDQzYTg0MWZiZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 
-- 🔭 I’m currently working on: **Portfolio projects**
+- 🔭 I’m currently working on: **Invoice Management project**
 
 - 🌱 I’m currently learning: **Angular**
 
