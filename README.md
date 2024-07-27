@@ -59,6 +59,4 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kospaolo)](https://github.com/kospaolo/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-stats-alpha-beryl.vercel.app/?user=kospaolo&" alt="kospaolo" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats-alpha-beryl.vercel.app/api?username=kospaolo)](https://github.com/kospaolo/github-readme-stats)
