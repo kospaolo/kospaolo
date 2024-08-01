@@ -1,11 +1,9 @@
 # Hi... I'm Paolo <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 A passionate **Full Stack Engineer** from Croatia
 
-- 🔭 I’m currently working on: **Invoice Management project**
+- 🔭 I’m currently working on: **ClimbeRI project**
 
-- 🌱 I’m currently learning: **Angular**
-
-- 💬 Ask me about: **Web Developing**
+- 🌱 I’m currently learning: **GSAP**
 
 - 📫 How to reach me:
 <a href="http://kospaolo.github.io/portfolio" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
@@ -14,7 +12,7 @@ A passionate **Full Stack Engineer** from Croatia
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,vue,ts,nodejs,mongodb,firebase,git,github,postman,figma,webstorm,vscode,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,angular,vue,ts,nodejs,mongodb,firebase,git,github,npm,postman,jenkins,figma,webstorm,vscode&perline=8)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
