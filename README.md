@@ -3,7 +3,7 @@ A passionate **Full Stack Engineer** from Croatia
 
 - 🔭 I’m currently working on: **KOSarica**
 
-- 🌱 I’m currently learning: **GSAP**
+- 🌱 I’m currently learning: **Angular**
 
 - 📫 How to reach me:
 <a href="http://kospaolo.github.io/portfolio" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
