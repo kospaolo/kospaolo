@@ -1,9 +1,7 @@
 # Hi... I'm Paolo <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 A passionate **Full Stack Engineer** from Croatia
 
-- 🔭 I’m currently working on: **ToDo App**
-
-- 🌱 I’m currently learning: **Angular**
+- 🌱 I’m currently learning: **MEAN Stack**
 
 - 📫 How to reach me:
 <a href="https://paolokos.com" title="Portfolio"><img alt="Email" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>
