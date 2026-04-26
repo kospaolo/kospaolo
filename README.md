@@ -8,4 +8,4 @@ A passionate **Full Stack Engineer** from Croatia
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,tailwind,mongodb,vercel,firebase,git,github,npm,postman,jenkins,figma&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,nextjs,tailwind,mongodb,vercel,firebase,git,github,npm,postman,jenkins,figma&perline=8)](#)
